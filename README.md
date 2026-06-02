@@ -6,10 +6,12 @@ If you find this project useful, we would be grateful if you cite the **GIDC pap
 
 Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han and Guohai Situ. Far-field super-resolution ghost imaging with a deep neural network constraint. Light Sci Appl 11, 1 (2022).
 
-##Information
-**Data** This contains data. 
+## Information
+**1. Data** : This contains data. 
 For SP(in phase) : Save patterns using **pattern_save_code** and using **linking** you can link measurements i.e. **0, 2pibi3, 4pibi3** to make data.
+
 For DHSI : You can directly save data using **DHI**.
+
 For CGI : You can directly save data using **GI_speckle_data**.
 
 ## How to use
