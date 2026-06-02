@@ -15,14 +15,19 @@ Ghost imaging (GI) facilitates image acquisition under low-light conditions by s
 ## How to use
 **Step 1: Configuring required packages**
 
-python 3.8
-
-tensorflow 2.12.0
-
-matplotlib 3.7.5
-
+python 3.9
+tensorflow 2.10.0
+matplotlib 3.9.4
 numpy 1.23.5
-
-pillow 10.4.0
+pillow 11.3.0
+scipy 1.13.1
+h5py  3.14.0
+contourpy 1.3.0
+cycler 0.12.1 
+fonttools 4.60.2 
+kiwisolver 1.4.7 
+pyparsing 3.2.5 
+python-dateutil 2.9.0.post0 
+importlib-resources 6.5.2
 
 **Step 2: Run GIDC_main.py after download and extract the ZIP file.**
