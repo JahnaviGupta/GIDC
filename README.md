@@ -9,16 +9,16 @@ Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han a
 ## Information
 **1. Data :** This contains data. 
 
-**i.**For SP(in phase) : Save patterns using **pattern_save_code** and using **linking** you can link measurements i.e. **0, 2pibi3,    4pibi3** to make data.
+**i. For SP(in phase) :** Save patterns using **pattern_save_code** and using **linking** you can link measurements i.e. **0, 2pibi3,    4pibi3** to make data.
 
-**ii.**For DHSI : You can directly save data using **DHI**.
+**ii. For DHSI :** You can directly save data using **DHI**.
 
-**iii.**For CGI : You can directly save data using **GI_speckle_data**.
+**iii. For CGI :** You can directly save data using **GI_speckle_data**.
 
 **2. Object :** This contains figures, which is required in the code.
 
 **3. Python_Codes :** This contains required codes.
-
+**i. For SP(in phase) :**
 
 ## How to use
 **Step 1: Configuring required packages**
