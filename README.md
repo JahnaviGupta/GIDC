@@ -17,8 +17,10 @@ Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han a
 
 **2. Object :** This contains figures, which is required in the code.
 
-**3. Python_Codes :** This contains required codes.
-**i. For SP(in phase) :**
+**3. Python_Codes :** This contains required codes.You can check for differnet dimensions and differnt number of patterns by  changing num_pattern in DHI and CGI.
+**i. For SP(in phase) :** Use code **GIDC_main**.
+**ii. For DHSI :** Use code **DHI_32**.
+**iii. For CGI :** Use code **CGI_1000_64**.
 
 ## How to use
 **Step 1: Configuring required packages**
