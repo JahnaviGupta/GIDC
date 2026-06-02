@@ -1,4 +1,0 @@
-You can generate data using these:
-For computational GI --> GI_speckle_data.m
-For DHSI --> DHI.m
-and for Single Pixel in phase , save pattern using pattern_save_code.m and link it data 0.mat, 2pibi3.mat, 4pibi3.mat using linking file
