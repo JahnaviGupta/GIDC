@@ -1,10 +1,8 @@
-# GIDC
+# GIDC and L1-Magic
 Tensorflow implementation of paper: [Far-field super-resolution ghost imaging with a deep neural network constraint](https://www.nature.com/articles/s41377-021-00680-w). One of the experiment data was provided.
 
-## Citation
-If you find this project useful, we would be grateful if you cite the **GIDC paper**：
+L1-Magic Implementation: [Hadamard single-pixel imaging versus Fourier single-pixel imaging](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-16-19619).
 
-Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han and Guohai Situ. Far-field super-resolution ghost imaging with a deep neural network constraint. Light Sci Appl 11, 1 (2022).
 
 ## Information
 **1. Data :** This contains data. 
@@ -18,6 +16,8 @@ Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han a
 **i. For SP(in phase) :** Use code **GIDC_main**.
 **ii. For DHSI :** Use code **DHI_32**.
 **iii. For CGI :** Use code **CGI_1000_64**.
+
+**4. L1-Magic :** This contains matlab software along with codes for DHSI(4codes) and FSI(**FSI.m**).
 
 ## How to use
 **Step 1: Configuring required packages**
