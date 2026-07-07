@@ -51,3 +51,10 @@ python-dateutil 2.9.0.post0
 importlib-resources 6.5.2
 
 **Step 2: Run GIDC_main.py after download and extract the ZIP file.**
+
+# Copyright
+Copyright © Indian Institute of Technology (BHU), Varanasi.
+
+This software was developed by Jahnavi Gupta under the guidance of Dr. Rakesh K. Singh (Professor, Department of Physics, IIT BHU, Varanasi) as part of an Integrated Dual Degree (B.Tech. + M.Tech.) thesis in Engineering Physics at IIT (BHU), Varanasi.
+
+The author is permitted to reproduce and authorize reproduction of derivative works, provided that the source and the Institute's copyright notice are indicated.
